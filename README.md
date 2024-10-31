@@ -1,8 +1,6 @@
-# React + Vite
+# GERICHT Restaurant 
+ Created a restaurant application in 3.5 days from concept to deployment using React, enhancing customer engagement through a streamlined online ordering system.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2024-10-31 123114](https://github.com/user-attachments/assets/3e42a267-ff86-424b-93bd-e0d5bed699af)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
